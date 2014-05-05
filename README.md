@@ -1,4 +1,4 @@
-loveinsurance
-=============
+hardathon
+=========
 
-Love Insurance home page
+Public page for hardathon
